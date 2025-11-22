@@ -1,4 +1,4 @@
-# CSDA Coursework – Statistical Modelling & Machine Learning (R)
+# Computational Statistics & Data Analysis Coursework – Statistical Modelling & Machine Learning (R)
 
 This repository contains the full coursework completed for the **Computational Statistics & Data Analysis (CSDA)** module at Nottingham Trent University.  
 It includes **three major statistical modelling tasks** implemented entirely in **R**, covering:
